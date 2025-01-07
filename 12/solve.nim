@@ -1,5 +1,4 @@
 include std/prelude
-import sugar
 
 var 
     map: seq[seq[char]] = lines("input")
